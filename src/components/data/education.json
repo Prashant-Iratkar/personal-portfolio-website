@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "degree": "Masters In Computer Science",
+    "university": "From SavitriBai Phule University, Pune",
+    "endDate": "Completed In Sept,2023",
+    "cgpa": "With 7.65 CGPA",
+    "imageSrc": "university/pune university.png"
+  },
+  {
+    "id": 2,
+    "degree": "Batchlor Of Computer Science",
+    "university": "From Dr.BAMU University, Aurangabad",
+    "endDate": "Completed In Aug,2021",
+    "cgpa": "With 71.47 %",
+    "imageSrc": "university/a.bad university.png"
+  },
+  {
+    "id": 3,
+    "degree": "Higher School Certificate[HSC]",
+    "university": "Maharashtra Board",
+    "endDate": "Completed In 2017",
+    "cgpa": "With 68.31 %",
+    "imageSrc": "university/m.board.png"
+  }
+]

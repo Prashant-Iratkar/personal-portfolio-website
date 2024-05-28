@@ -1,0 +1,21 @@
+.ed{
+    width: 900px;
+}
+
+.ed-items{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--bg-color);
+    margin: 20px;
+    padding: 30px;
+    width: 770px;
+    border-radius: 10px;
+    border: 1px solid yellow;
+    box-shadow: var(--box-shadow);
+}
+
+.ed-items .left img{
+    height: 100px;
+    width: 100px;
+}

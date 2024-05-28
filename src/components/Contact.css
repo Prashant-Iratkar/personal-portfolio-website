@@ -1,0 +1,34 @@
+.contact{
+    
+    height: 200px;
+}
+.contact-icon{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50%;
+    margin-top: 30px;
+}
+
+.contact-icon1{
+    margin-top: 10px;
+}
+
+.contact-icon2{
+    margin-top: 10px;
+}
+
+.items-c{
+    margin-bottom: 10px;
+}
+
+.icons{
+    margin: 10px;
+    background-color: black;
+    height: 50px;
+    width: 50px;
+    border: 2px solid yellow;
+    border-radius: 10px;
+    padding: 7px;
+}
